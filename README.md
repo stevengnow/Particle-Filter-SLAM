@@ -17,6 +17,10 @@ initialization.py<br/>
 Partticle_filter.py<br/>
 
 ## SLAM Visualization
-![image](https://user-images.githubusercontent.com/56326908/109858625-e4825600-7c10-11eb-95d6-40a031abd839.png)
+Mapping
+![image](https://user-images.githubusercontent.com/56326908/109858625-e4825600-7c10-11eb-95d6-40a031abd839.png)<br/>
+Trajectory
+![image](https://user-images.githubusercontent.com/56326908/109858708-04197e80-7c11-11eb-9a0e-313dd0669121.png)
+
 
 
