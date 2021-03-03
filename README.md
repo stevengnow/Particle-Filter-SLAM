@@ -4,12 +4,12 @@ Particle Filter Simultaneous Localization and Mapping (SLAM) is a solution to lo
 ## Paper
 
 ## Requirements
-opencv-python == 4.2.0.34\n
-matplotlib >= 2.2\\
-numpy\\
-pandas\\
-scipy\\
-scikit-image >= 0.14.0\\
+opencv-python == 4.2.0.34<br/>
+matplotlib >= 2.2<br/>
+numpy\<br/>
+pandas<br/>
+scipy\<br/>
+scikit-image >= 0.14.0<br/>
 
 ## Particle Filter SLAM
 To run the code, run the scripts\\
