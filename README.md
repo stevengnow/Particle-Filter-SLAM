@@ -13,8 +13,8 @@ scikit-image >= 0.14.0<br/>
 
 ## Particle Filter SLAM
 To run the code, run the scripts<br/>
-   <addr> initialization.py<br/>
-    Partticle_filter.py<br/>
+initialization.py<br/>
+Partticle_filter.py<br/>
 
 ## SLAM Visualization
 
